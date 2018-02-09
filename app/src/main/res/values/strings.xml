@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SEXTACHERAAEHO</string>
+    <string name="label_botao_locao">Generate Lucky Number</string>
+    <string name="textNumero" />
+</resources>
