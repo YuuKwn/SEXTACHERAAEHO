@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">SEXTACHERAAEHO</string>
     <string name="label_botao_locao">Gerar Número da Sorte</string>
+    <string name="developed_by">Desenvolvido por YuuKwn</string>
 </resources>
